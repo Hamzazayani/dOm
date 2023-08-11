@@ -1,0 +1,70 @@
+.front{
+  position: relative;
+  width: 1480px;
+  height: 450px;
+  
+  }
+
+.card{
+    display: inline-block;
+    vertical-align: top;
+    width: 18rem;
+    margin: 10px 0;
+
+}
+
+img{
+    border-top-left-radius: 1px;
+     border-top-right-radius: 13px;
+     height: 100px;
+}
+
+.card {
+    border: 1px solid #ccc;
+    margin: 100px;
+    padding: 10px;
+    text-align: center;
+    max-width: 300px;
+  }
+
+  .card img {
+    max-width: 100%;
+    height: 400px;
+  }
+
+  .card h5 {
+    margin-top: 10px;
+    font-size: 1.2rem;
+  }
+
+  .card p.card-text {
+    margin: 10px 0;
+  }
+
+  .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 15px;
+    cursor: pointer;
+  }
+
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  .list-group-item{
+    padding-right: 100px;
+  }
+  .card-footer{
+    padding-right: 200px;
+  }
+
+  .fa-solid {
+     margin-left:60px;
+
+  }
+  .card1{
+position: relative;
+left: 500px;
+top: 50px;
+  }
